@@ -1,0 +1,11 @@
+E:\Programming\C#\Lesson7\Doubler\bin\Debug\Doubler.exe.config
+E:\Programming\C#\Lesson7\Doubler\bin\Debug\Doubler.exe
+E:\Programming\C#\Lesson7\Doubler\bin\Debug\Doubler.pdb
+E:\Programming\C#\Lesson7\Doubler\obj\Debug\Doubler.csproj.AssemblyReference.cache
+E:\Programming\C#\Lesson7\Doubler\obj\Debug\Doubler.csproj.SuggestedBindingRedirects.cache
+E:\Programming\C#\Lesson7\Doubler\obj\Debug\Doubler.Properties.Resources.resources
+E:\Programming\C#\Lesson7\Doubler\obj\Debug\Doubler.csproj.GenerateResource.cache
+E:\Programming\C#\Lesson7\Doubler\obj\Debug\Doubler.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Lesson7\Doubler\obj\Debug\Doubler.exe
+E:\Programming\C#\Lesson7\Doubler\obj\Debug\Doubler.pdb
+E:\Programming\C#\Lesson7\Doubler\obj\Debug\Doubler.Form1.resources
